@@ -8,8 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railson95&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ##
-  Conhecimentos nas seguintes linguagens de programação
+##
+Conhecimentos nas seguintes linguagens de programação
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Railson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
@@ -20,7 +21,6 @@
 </div>
 
 ##
-
 Redes sociais
   <div> 
   <a href="https://www.facebook.com/railson.martins.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
