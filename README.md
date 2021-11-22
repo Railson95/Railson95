@@ -9,7 +9,7 @@
 </div>
   
 ##
-Conhecimentos nas seguintes linguagens de programação
+Conhecimentos nas seguintes linguagens de programação e ferramentas
 
 <div style="display: inline_block"><br>
   
@@ -18,6 +18,8 @@ Conhecimentos nas seguintes linguagens de programação
   <img align="center" alt="Railson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Railson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Railson-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Railson-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Railson-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 </div>
 
 ##
