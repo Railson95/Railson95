@@ -18,7 +18,7 @@
   <img align="center" alt="Railson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Railson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Railson-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
+  <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="30" height="30"/> 
 </div>
 
 ##
