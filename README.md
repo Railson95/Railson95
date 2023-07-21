@@ -1,4 +1,4 @@
-### Olá, eu sou o Railson 👋
+### Hello, I'm Railson 👋
 
 ##
 
@@ -9,7 +9,7 @@
 </div>
   
 ##
-<h3 align="left">Linguagens de programação e ferramentas:</h3>
+<h3 align="left">Programming languages ​​and tools:</h3>
 
 <div style="display: inline_block"><br>
   
@@ -24,7 +24,7 @@
 ##
 
   <div> 
-    <h3 align="left">Redes Sociais:</h3>
+    <h3 align="left">Social media:</h3>
     <div style="display: inline_block"><br>
       <a href="https://www.facebook.com/railson.martins.5" target="_blank"><img align="center"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" width="110" ></a>
      <a href="https://www.linkedin.com/in/railson-martins-543b68140/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
@@ -38,7 +38,7 @@
 </div>
 
   
-<h4 align="right"> Visitantes </h4>
+<h4 align="right"> Visitors </h4>
 <img align="right" src="https://profile-counter.glitch.me/railson95/count.svg">
 
  
