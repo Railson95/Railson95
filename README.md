@@ -157,7 +157,7 @@
   </li>
 </ul>
 
-<h3 align="left">Projetos que fiz na faculdade:</h3>
+<h3 align="left">Alguns dos projetos que fiz na faculdade:</h3>
 
 <ul>
   <li>
