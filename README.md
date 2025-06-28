@@ -114,6 +114,13 @@
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
+    <tr>
+      <td>
+        <img alt="Swagger" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
+        &nbsp;Swagger
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
   </tbody>
 </table>
 
