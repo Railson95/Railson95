@@ -13,7 +13,7 @@
 </ul>
 
 ##
-<h3 align="left">Linguagens de Programação e Ferramentas:</h3>
+<h3 align="left">Linguagens de Programação, Ferramentas e Frameworks:</h3>
 
 <br>
 
@@ -72,6 +72,26 @@
         &nbsp;Git
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Frameworks</th>
+      <th>Nível de Conhecimento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Cypress" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
+        &nbsp;Cypress
+      </td>
+      <td>⭐⭐⭐✩✩ (Básico)</td>
     </tr>
   </tbody>
 </table>
