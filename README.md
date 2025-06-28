@@ -1,19 +1,9 @@
 ### Hello, I'm Railson 👋
 
 ##
-
-<div align="center">
-  <a href="https://github.com/Railson95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Railson95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railson95&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-##
 <h3 align="left">Programming languages ​​and tools:</h3>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Railson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Railson-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Railson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Railson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Railson-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
@@ -25,19 +15,11 @@
 <table>
   <thead>
     <tr>
-      <th>Ferramenta</th>
+      <th>Linguagens</th>
       <th>Nível de Conhecimento</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>C++</td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
-    <tr>
-      <td>C</td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
     <tr>
       <td>Python</td>
       <td>⭐⭐⭐⭐✩ (Avançado)</td>
@@ -48,11 +30,22 @@
     </tr>
     <tr>
       <td>SQL (PostgreSQL)</td>
-      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Ferramenta</th>
+      <th>Nível de Conhecimento</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Git</td>
-      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+      <td>⭐⭐⭐✩✩ (Avançado)</td>
     </tr>
   </tbody>
 </table>
