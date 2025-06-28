@@ -17,12 +17,12 @@
 <ul>
   <li>
     🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
-      <strong>Automação</strong> do fluxo de login básico utilizando Cypress
+      <strong>Automação</strong> do fluxo de login básico utilizando Cypress (24/06/25)
     </a>
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
+      Automação com o padrão de projeto Page Objects em Cypress (28/06/25) (em andamento)
     </a>
   </li>
 </ul>
