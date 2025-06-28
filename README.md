@@ -57,6 +57,9 @@
   </tbody>
 </table>
 
+<h3 align="left">Últimos Projetos:</h3>
+- 🔐 [Automação para o fluxo de login básico usando Cypress](https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress)
+- 🧪 [Automação usando o Design Pattern Page Objects em Cypress (Em andamento)](https://github.com/Railson95/qa-soucedemo-automation-cypress)
 
 ##
 
