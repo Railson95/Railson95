@@ -157,6 +157,21 @@
   </li>
 </ul>
 
+<h3 align="left">Projetos que fiz na faculdade:</h3>
+
+<ul>
+  <li>
+    🔐 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
+      Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
+    </a>
+  </li>
+  <li>
+    🧪 <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
+      Relógio digital usando o microcontrolador PIC com comunicação serial
+    </a>
+  </li>
+</ul>
+
 ##
 
   <div> 
