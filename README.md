@@ -147,12 +147,12 @@
 <ul>
   <li>
     🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
-      Automação do fluxo de login básico utilizando Cypress
+      <strong>Automação</strong> do fluxo de login básico utilizando Cypress
     </a>
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
+      <strong>Automação</strong> com o padrão de projeto Page Objects em Cypress (em andamento)
     </a>
   </li>
 </ul>
@@ -161,13 +161,13 @@
 
 <ul>
   <li>
-    🔐 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
-      Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
+    📡 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
+       <strong>Sistema de monitoramento </strong> para aquisição de parâmetros para a Piscicultura (TCC)
     </a>
   </li>
   <li>
-    🧪 <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
-      Relógio digital usando o microcontrolador PIC com comunicação serial
+    ⏱️ <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
+      <strong>Relógio digital</strong>strong> usando o microcontrolador PIC com comunicação serial
     </a>
   </li>
 </ul>
