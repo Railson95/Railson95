@@ -232,7 +232,7 @@
     </tr>
     <tr>
       <td>
-        Técnicas de Teste de Caixa Preta (BVL, PL, DT)
+        Técnicas de Teste de Caixa Preta (BVA, EP, DT)
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
