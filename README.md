@@ -1,5 +1,17 @@
 ### Hello, I'm Railson 👋
 
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+<ul>
+  <li>📚 Sou formado em <strong>Engenharia da Computação</strong> e atuei como estagiário nas áreas de <strong>desenvolvimento de software</strong> e <strong>testes</strong> na <strong>Philips Medical Systems</strong>, no setor de HPM (Hospital Patient Monitoring).</li>
+  
+  <li>👨‍🏫 Também fui <strong>professor substituto</strong> no <strong>Instituto Federal de Minas Gerais – Campus Bambuí</strong>.</li>
+  
+  <li>🤝 Possuo experiência com <strong>trabalho em equipe</strong>, <strong>revisão de código</strong>, <strong>implementação de protocolos de comunicação serial (UART)</strong>, <strong>Python</strong>, <strong>testes unitários</strong>, <strong>comunicação assíncrona</strong>, <strong>Scrum</strong>, <strong>Kanban</strong> e <strong>testes manuais</strong>.</li>
+  
+  <li>🚀 Atualmente, estou estudando <strong>testes automatizados com o framework Cypress e a ferramenta Postman</strong>.</li>
+</ul>
+
 ##
 <h3 align="left">Linguagens de Programação e Ferramentas:</h3>
 
