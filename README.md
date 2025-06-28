@@ -88,7 +88,7 @@
   <tbody>
     <tr>
       <td>
-        <img alt="Cypress" height="20" width="20" src="">
+        <img alt="Cypress" height="20" width="20" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg">
         &nbsp;Cypress
       </td>
       <td>⭐✩✩✩✩✩ (Básico)</td>
