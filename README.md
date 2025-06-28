@@ -88,7 +88,7 @@
   <tbody>
     <tr>
       <td>
-        <img alt="Cypress" height="20" width="20" src="https://cdn.cypress.io/logo.png)](https://github.com/cypress-io/cypress-logo/raw/master/cypress-logo.png">
+        <img alt="Cypress" height="20" width="20" src="https://cdn.cypress.io/logo.png)](https://github.com/cypress-io/cypress-logo/raw/master/cypress-logo.svg">
         &nbsp;Cypress
       </td>
       <td>⭐✩✩✩✩✩ (Básico)</td>
