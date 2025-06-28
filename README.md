@@ -230,6 +230,24 @@
       </td>
       <td>⭐⭐⭐⭐✩ (Avançado)</td>
     </tr>
+    <tr>
+      <td>
+        Técnicas de Teste de Caixa Preta (BVL, PL, DT)
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        Técnicas de Teste de Caixa Branca 
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+     <tr>
+      <td>
+        Heurística POISED
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
