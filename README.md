@@ -13,7 +13,7 @@
 </ul>
 
 ##
-<h3 align="left">Linguagens de Programação, Ferramentas e Frameworks:</h3>
+<h3 align="left">Linguagens de Programação, Ferramentas, Frameworks e Boas Práticas:</h3>
 
 <br>
 
@@ -151,6 +151,49 @@
         Pytest
       </td>
       <td>⭐✩✩✩✩✩ (Básico)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Boas Práticas</th>
+      <th>Nível de Conhecimento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Page Objects
+      </td>
+      <td>⭐⭐✩✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>
+        Clean Code
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        Code Review
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        SOLID
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        Programação Orientada a Objetos
+      </td>
+      <td>⭐⭐⭐⭐✩ (Avançado)</td>
     </tr>
   </tbody>
 </table>
