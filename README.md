@@ -34,6 +34,13 @@
       </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
+    <tr>
+      <td>
+        <img alt="JavaScript" height="20" width="20" src="https://imgur.com/gallery/javascript-icon-rA6HMco#qFZZjM3">
+        &nbsp;JavaScript
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
