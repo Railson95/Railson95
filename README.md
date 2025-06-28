@@ -116,8 +116,7 @@
     </tr>
     <tr>
       <td>
-        <img alt="Azure DevOps" height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" />
-        &nbsp;Azure DevOps
+        Azure DevOps
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
