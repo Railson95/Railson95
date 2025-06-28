@@ -32,7 +32,7 @@
 <ul>
   <li>
     📡 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
-       Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
+       Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC e PIBIT)
     </a>
   </li>
   <li>
