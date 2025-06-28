@@ -101,6 +101,20 @@
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
+    <tr>
+      <td>
+        <img alt="TestRail" height="20" width="20" src="https://uploads-ssl.webflow.com/5e7b83c47d30e2f059e0db3b/5e8cfa207cce4ed5e694cdbd_icon_testrail.png" />
+        &nbsp;TestRail
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Jira" height="20" width="20" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
+        &nbsp;Jira
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
   </tbody>
 </table>
 
