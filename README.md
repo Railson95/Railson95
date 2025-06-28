@@ -60,6 +60,13 @@
       </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
+    <tr>
+      <td>
+        <img alt="Html" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        &nbsp;Html 
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
