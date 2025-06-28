@@ -88,10 +88,10 @@
   <tbody>
     <tr>
       <td>
-        <img alt="Cypress" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
+        <img alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
         &nbsp;Cypress
       </td>
-      <td>⭐⭐⭐✩✩ (Básico)</td>
+      <td>⭐✩✩✩✩✩ (Básico)</td>
     </tr>
   </tbody>
 </table>
