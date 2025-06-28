@@ -3,66 +3,75 @@
 ##
 <h3 align="left">Programming languages ​​and tools:</h3>
 
-<br>
-
 <table>
-  <thead>
-    <tr>
-      <th>Linguagem</th>
-      <th>Nível de Conhecimento</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        &nbsp;Python
-      </td>
-      <td>⭐⭐⭐⭐✩ (Avançado)</td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="Java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-        &nbsp;Java
-      </td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="SQL" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-        &nbsp;SQL (PostgreSQL)
-      </td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        &nbsp;JavaScript
-      </td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top">
+
+      <table>
+        <thead>
+          <tr>
+            <th>Linguagem</th>
+            <th>Nível de Conhecimento</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+              &nbsp;Python
+            </td>
+            <td>⭐⭐⭐⭐✩ (Avançado)</td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="Java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+              &nbsp;Java
+            </td>
+            <td>⭐⭐✩✩✩ (Básico)</td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="SQL" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+              &nbsp;SQL (PostgreSQL)
+            </td>
+            <td>⭐⭐✩✩✩ (Básico)</td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+              &nbsp;JavaScript
+            </td>
+            <td>⭐⭐✩✩✩ (Básico)</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </td>
+    <td valign="top">
+
+      <table>
+        <thead>
+          <tr>
+            <th>Ferramenta</th>
+            <th>Nível de Conhecimento</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <img alt="Git" height="20" width="20" src="https://i.imgur.com/5pIevzW.png">
+              &nbsp;Git
+            </td>
+            <td>⭐⭐⭐✩✩ (Intermediário)</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </td>
+  </tr>
 </table>
 
 <br>
-
-<table>
-  <thead>
-    <tr>
-      <th>Ferramenta</th>
-      <th>Nível de Conhecimento</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img alt="Git" height="20" width="20" src="https://i.imgur.com/5pIevzW.png">
-        &nbsp;Git
-      </td>
-      <td>⭐⭐⭐✩✩ (Intermediário)</td>
-    </tr>
-  </tbody>
-</table>
 
 <h3 align="left">Últimos projetos:</h3>
 
@@ -78,6 +87,7 @@
     </a>
   </li>
 </ul>
+
 
 
 
