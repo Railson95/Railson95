@@ -133,6 +133,12 @@
       </td>
       <td>⭐✩✩✩✩✩ (Básico)</td>
     </tr>
+    <tr>
+      <td>
+        Pytest
+      </td>
+      <td>⭐✩✩✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -150,9 +156,6 @@
     </a>
   </li>
 </ul>
-
-
-
 
 ##
 
