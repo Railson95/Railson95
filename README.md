@@ -291,15 +291,8 @@
       <a href="https://api.whatsapp.com/send?phone=5535999839730&text=Ol%C3%A1!%20Cheguei%20aqui%20pelo%20seu%20GitHub!" target="_blank"><img align="center"                src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
       <a href = "mailto:railsonmartins1970i@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
- ##
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
-  
-<h4 align="right"> Visitors </h4>
-<img align="right" src="https://profile-counter.glitch.me/railson95/count.svg">
 
  
 
