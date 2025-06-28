@@ -262,12 +262,6 @@
     </tr>
     <tr>
       <td>
-        Abertura e Gerenciamento de Bugs
-      </td>
-      <td>⭐⭐✩✩✩ (Básico)</td>
-    </tr>
-    <tr>
-      <td>
         Criação e execução de Plano de Testes, Casos de Testes e Scripts de Teste
       </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
