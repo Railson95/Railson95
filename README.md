@@ -12,6 +12,41 @@
   <li>🚀 Atualmente, estou estudando <strong>testes automatizados com o framework Cypress e a ferramenta Postman</strong>.</li>
 </ul>
 
+<h3 align="left">Últimos projetos:</h3>
+
+<ul>
+  <li>
+    🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
+      <strong>Automação</strong> do fluxo de login básico utilizando Cypress
+    </a>
+  </li>
+  <li>
+    🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
+      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
+    </a>
+  </li>
+</ul>
+
+<h3 align="left">Alguns dos projetos que fiz na faculdade:</h3>
+
+<ul>
+  <li>
+    📡 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
+       Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
+    </a>
+  </li>
+  <li>
+    ⏱️ <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
+      Relógio digital usando o microcontrolador PIC com comunicação serial
+    </a>
+  </li>
+  <li>
+    🛣️ <a href="https://github.com/Railson95/Algorithm-Bellman-Ford" target="_blank">
+      Algoritmo Bellman-Ford que calcula o caminho mais curto de um vértice origem para todos os outros vértices em um grafo
+    </a>
+  </li>
+</ul>
+
 ##
 <h3 align="left">Linguagens de Programação, Ferramentas, Frameworks e Boas Práticas:</h3>
 
@@ -197,41 +232,6 @@
     </tr>
   </tbody>
 </table>
-
-<h3 align="left">Últimos projetos:</h3>
-
-<ul>
-  <li>
-    🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
-      <strong>Automação</strong> do fluxo de login básico utilizando Cypress
-    </a>
-  </li>
-  <li>
-    🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
-    </a>
-  </li>
-</ul>
-
-<h3 align="left">Alguns dos projetos que fiz na faculdade:</h3>
-
-<ul>
-  <li>
-    📡 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
-       Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
-    </a>
-  </li>
-  <li>
-    ⏱️ <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
-      Relógio digital usando o microcontrolador PIC com comunicação serial
-    </a>
-  </li>
-  <li>
-    🛣️ <a href="https://github.com/Railson95/Algorithm-Bellman-Ford" target="_blank">
-      Algoritmo Bellman-Ford que calcula o caminho mais curto de um vértice origem para todos os outros vértices em um grafo
-    </a>
-  </li>
-</ul>
 
 ##
 
