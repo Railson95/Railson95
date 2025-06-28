@@ -73,6 +73,20 @@
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
+    <tr>
+      <td>
+        <img alt="Postman" height="20" width="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+        &nbsp;Postman
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="VScode" height="20" width="20" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+        &nbsp;VScode
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
   </tbody>
 </table>
 
