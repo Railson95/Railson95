@@ -278,6 +278,12 @@
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
+    <tr>
+      <td>
+        Testes em API Rest
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
