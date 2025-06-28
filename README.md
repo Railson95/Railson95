@@ -57,20 +57,21 @@
   </tbody>
 </table>
 
-<h3 align="left">Últimos Projetos:</h3>
+<h3 align="left">Últimos projetos:</h3>
 
 <ul>
   <li>
     🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
-      Automação para o fluxo de login básico usando Cypress
+      Automação do fluxo de login básico utilizando Cypress
     </a>
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação usando o Design Pattern Page Objects em Cypress (Em andamento)
+      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
     </a>
   </li>
 </ul>
+
 
 
 ##
