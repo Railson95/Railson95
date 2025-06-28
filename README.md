@@ -12,14 +12,50 @@
 <h3 align="left">Programming languages ​​and tools:</h3>
 
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Railson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Railson-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Railson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Railson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Railson-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="30" height="30"/> 
+  <img align="center" alt="Railson-Git" height="30" width="30" src="https://i.imgur.com/5pIevzW.png">
 </div>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Ferramenta</th>
+      <th>Nível de Conhecimento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C++</td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>⭐⭐⭐⭐✩ (Avançado)</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>SQL (PostgreSQL)</td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+  </tbody>
+</table>
 
 ##
 
