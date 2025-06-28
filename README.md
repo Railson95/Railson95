@@ -1,14 +1,14 @@
 ### Hello, I'm Railson 👋
 
 ##
-<h3 align="left">Programming languages ​​and tools:</h3>
+<h3 align="left">Linguagens de Programação e Ferramentas:</h3>
 
 <br>
 
 <table>
   <thead>
     <tr>
-      <th>Linguagem</th>
+      <th>Linguagens</th>
       <th>Nível de Conhecimento</th>
     </tr>
   </thead>
@@ -49,7 +49,7 @@
 <table>
   <thead>
     <tr>
-      <th>Ferramenta</th>
+      <th>Ferramentas</th>
       <th>Nível de Conhecimento</th>
     </tr>
   </thead>
