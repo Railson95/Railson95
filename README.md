@@ -272,6 +272,12 @@
       </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
+    <tr>
+      <td>
+        Scrum/Kanban
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
   </tbody>
 </table>
 
