@@ -68,7 +68,7 @@
   <tbody>
     <tr>
       <td>
-        <img alt="Git" height="20" width="20" src="https://i.imgur.com/5pIevzW.png">
+        <img alt="Git" height="20" width="20" src="https://cdn.cypress.io/logo.png">
         &nbsp;Git
       </td>
       <td>⭐⭐⭐✩✩ (Intermediário)</td>
