@@ -152,7 +152,7 @@
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      <strong>Automação</strong> com o padrão de projeto Page Objects em Cypress (em andamento)
+      Automação com o padrão de projeto Page Objects em Cypress (em andamento)
     </a>
   </li>
 </ul>
@@ -162,12 +162,12 @@
 <ul>
   <li>
     📡 <a href="https://github.com/Railson95/Fish-farming-system" target="_blank">
-       <strong>Sistema de monitoramento </strong> para aquisição de parâmetros para a Piscicultura (TCC)
+       Sistema de monitoramento para aquisição de parâmetros para a Piscicultura (TCC)
     </a>
   </li>
   <li>
     ⏱️ <a href="https://github.com/Railson95/CommunicationSerial-Clock-With-Buttons" target="_blank">
-      <strong>Relógio digital</strong>strong> usando o microcontrolador PIC com comunicação serial
+      Relógio digital usando o microcontrolador PIC com comunicação serial
     </a>
   </li>
 </ul>
