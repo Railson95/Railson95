@@ -3,37 +3,41 @@
 ##
 <h3 align="left">Programming languages ​​and tools:</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Railson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Railson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Railson-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Railson-Git" height="30" width="30" src="https://i.imgur.com/5pIevzW.png">
-</div>
-
 <br>
 
 <table>
   <thead>
     <tr>
-      <th>Linguagens</th>
+      <th>Linguagem</th>
       <th>Nível de Conhecimento</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
+      <td>
+        <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        &nbsp;Python
+      </td>
       <td>⭐⭐⭐⭐✩ (Avançado)</td>
     </tr>
     <tr>
-      <td>Java</td>
+      <td>
+        <img alt="Java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+        &nbsp;Java
+      </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
     <tr>
-      <td>SQL (PostgreSQL)</td>
+      <td>
+        <img alt="SQL" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+        &nbsp;SQL (PostgreSQL)
+      </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
   </tbody>
 </table>
+
+<br>
 
 <table>
   <thead>
@@ -44,11 +48,15 @@
   </thead>
   <tbody>
     <tr>
-      <td>Git</td>
-      <td>⭐⭐⭐✩✩ (Avançado)</td>
+      <td>
+        <img alt="Git" height="20" width="20" src="https://i.imgur.com/5pIevzW.png">
+        &nbsp;Git
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
     </tr>
   </tbody>
 </table>
+
 
 ##
 
