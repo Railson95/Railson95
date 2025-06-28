@@ -248,6 +248,36 @@
       </td>
       <td>⭐⭐✩✩✩ (Básico)</td>
     </tr>
+    <tr>
+      <td>
+        Ghergin
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>
+        Abertura e Gerenciamento de Bugs
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
+        Abertura e Gerenciamento de Bugs
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>
+        Criação e execução de Plano de Testes, Casos de Testes e Scripts de Teste
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
+    <tr>
+      <td>
+        Pirâmide de Testes
+      </td>
+      <td>⭐⭐✩✩✩ (Básico)</td>
+    </tr>
   </tbody>
 </table>
 
