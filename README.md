@@ -22,7 +22,7 @@
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação com o padrão de projeto Page Objects em Cypress (28/06/25) (em andamento)
+      Automação com o padrão de projeto Page Objects em Cypress (30/06/25)
     </a>
   </li>
 </ul>
