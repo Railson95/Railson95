@@ -74,6 +74,13 @@
     </tr>
     <tr>
       <td>
+        <img alt="C e C++" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+        &nbsp;C e C++
+      </td>
+      <td>⭐⭐⭐✩✩ (Intermediário)</td>
+    </tr>
+    <tr>
+      <td>
         <img alt="Java" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
         &nbsp;Java
       </td>
