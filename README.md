@@ -26,7 +26,7 @@
     </a>
   </li>
    <li>
-    🧪 <a href="https://github.com/Railson95/qa-test-weatherapi-postman" target="_blank">
+    🌦️ <a href="https://github.com/Railson95/qa-test-weatherapi-postman" target="_blank">
       Teste automatizado da Weather API usando o POSTMAN e a Heurisca POISED (04/07/25)
     </a>
   </li>
