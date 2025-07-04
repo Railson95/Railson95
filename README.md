@@ -17,12 +17,17 @@
 <ul>
   <li>
     🔐 <a href="https://github.com/Railson95/qa-login-the-internet.herokuapp-cypress" target="_blank">
-      <strong>Automação</strong> do fluxo de login básico utilizando Cypress (24/06/25)
+      Teste automatizado do fluxo de login básico utilizando Cypress (24/06/25)
     </a>
   </li>
   <li>
     🧪 <a href="https://github.com/Railson95/qa-soucedemo-automation-cypress" target="_blank">
-      Automação com o padrão de projeto Page Objects em Cypress (30/06/25)
+      Teste automatizado aplicando o padrão de projeto Page Objects em Cypress (30/06/25)
+    </a>
+  </li>
+   <li>
+    🧪 <a href="https://github.com/Railson95/qa-test-weatherapi-postman" target="_blank">
+      Teste automatizado da Weather API usando o POSTMAN e a Heurisca POISED (04/07/25)
     </a>
   </li>
 </ul>
